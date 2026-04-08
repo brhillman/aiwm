@@ -1,0 +1,13 @@
+# AIWM
+
+A minimal window manager created with the help of a chatbot.
+
+## Design goals
+This WM is designed to be as simple as is reasonable, with a focus on readability and only doing the things I need it to do.
+Said things I need it to do:
+
+  1. Open maximized windows for my tiny 11" display laptop
+  2. Enable window-switching via keybindings
+  3. Enable a keybinding to run dmenu to launch programs
+
+That's it. No mouse. No resizing. No moving windows. No BS.

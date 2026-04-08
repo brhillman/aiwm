@@ -1,6 +1,6 @@
 # AIWM
 
-A minimal window manager created with the help of a chatbot.
+A minimal window manager created with the help of a chatbot, inspired by/rewritten from 1wm.
 
 ## Design goals
 This WM is designed to be as simple as is reasonable, with a focus on readability and only doing the things I need it to do.

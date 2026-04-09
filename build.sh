@@ -1,3 +1,2 @@
 #! /bin/sh
-
-rm -f aiwm; ${CC:-tcc} -lX11 aiwm.c -o aiwm
+rm -f onewm; ${CC:-tcc} -lX11 onewm.c -o onewm
